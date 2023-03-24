@@ -1,5 +1,5 @@
 ## **My Laravel Folder Stucture**
-Belows are the added folders from default laravel structure:
+Below are the added folders from default laravel structure:
 
  - Collection
 	 - This folder is for `Collection` classes that allows you to chain its methods to perform fluent mapping and reducing of the underlying array.
